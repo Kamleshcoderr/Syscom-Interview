@@ -1,5 +1,7 @@
 # Syscom-Interview
-<a href="http://kamlesh.great-site.net/index.php">Demo</a>
+Frontend:HTML,CSS
+Backend:PHP,MYSQL
+<a href="http://kamlesh.great-site.net/index.php" target="_blank">Demo</a>
 <br></br>
 <br></br>
 <br></br>
